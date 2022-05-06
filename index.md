@@ -301,7 +301,7 @@ available at https://codimd.carpentries.org
 <p>
 We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
-<p style="background-color: LightYellow;"><strong>Update Day 4</strong>: There is a problem accessing the main collaborative document. Please use this <a href="https://docs.google.com/document/d/1ihmD7o27CWdeljeF0RcGAf5CHWahd22Udv8lpbU5CqM/edit?usp=sharing">backup collaborative document</a> instead. We apologise for the inconvenience.</p>
+<p style="background-color: LightYellow;"><strong>Update Day 4</strong>: If there is a problem accessing the main collaborative document, please use this <a href="https://docs.google.com/document/d/1ihmD7o27CWdeljeF0RcGAf5CHWahd22Udv8lpbU5CqM/edit?usp=sharing">backup collaborative document</a> instead.</p>
 <hr/>
 {% endif %}
 
